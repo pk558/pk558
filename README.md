@@ -1,1 +1,3 @@
-# 👋 Hi, I’m @pk558
+# 👋 Hi, I’m Patryk.
+
+# I'm working most common with JavaScript, TypeScript, C#, Python, HTML and CSS.
